@@ -1,0 +1,17 @@
+
+*.csv
+
+my_content*.txt
+id_rsa
+id_rsa.pub
+
+.DS_Store
+encrypted*.dat
+
+/data/
+/.aws
+my_keypair
+my_keypair.pub
+
+encrypted_message.bin
+
